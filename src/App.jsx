@@ -1,8 +1,13 @@
+import Navbar from "./components/navbar";
+
 function App() {
   return (
-    <div className="w-full min-h-screen flex justify-center items-center bg-blue-600">
-      <h1 className="text-3xl font-semibold">Deploy 4</h1>
-    </div>
+    <>
+      <Navbar />
+      <div className="w-full min-h-screen flex flex-col justify-center items-center">
+        <h1 className="text-3xl  font-semibold">Deploy 4</h1>
+      </div>
+    </>
   );
 }
 
