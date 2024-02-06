@@ -10,7 +10,7 @@ function Navbar() {
         <li className="cursor-pointer">Home</li>
         <li className="cursor-pointer">About</li>
         <li className="cursor-pointer">Contact</li>
-        <li className="border px-4 py-1 rounded-md bg-blue-500 hover:bg-blue-700 duration-300 cursor-pointer">
+        <li className="border px-4 py-1 rounded-md bg-green-500 hover:bg-green-700 duration-300 cursor-pointer">
           Login
         </li>
         <li className="border px-4 py-1 rounded-md bg-slate-800 hover:bg-slate-600 duration-300 cursor-pointer">
