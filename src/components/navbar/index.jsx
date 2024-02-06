@@ -14,7 +14,7 @@ function Navbar() {
           Login
         </li>
         <li className="border px-4 py-1 rounded-md bg-slate-800 hover:bg-slate-600 duration-300 cursor-pointer">
-          Register
+          Logout
         </li>
       </ul>
     </nav>
